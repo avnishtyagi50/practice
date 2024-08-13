@@ -1,0 +1,47 @@
+body{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  background-color: aqua;
+  color: black;
+  padding: 1em;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  font-size: large;
+}
+main{
+  background-color: hsl(67, 59%, 70%);
+  color: rgb(127, 6, 6);
+  padding: 2em;
+  text-align: center;
+  
+}
+div{
+  h1{
+    color: rgb(151, 38, 38);
+  }
+  .img{
+    border-image: round;
+    image-orientation: inherit;
+    image-rendering: optimizeQuality;
+  }
+  background-color: bisque;
+  padding: 2em;
+  text-decoration: double;
+}
+div1{
+  background-color: brown;
+  padding: auto;
+  margin: auto;
+
+}
+nav{
+  background-color: antiquewhite;
+  padding: auto;
+}
+div{
+  color: black;
+}
